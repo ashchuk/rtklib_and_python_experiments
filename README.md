@@ -1,6 +1,6 @@
 # RTKLib and Python experiments
 
-There is pilot project that uses RTKLib postprocessing, Google Maps JS API and Python. Tested on Ubuntu 14.04.
+There is pilot project what uses RTKLib postprocessing, Google Maps JS API and Python. Tested on Ubuntu 14.04.
 
 ### What used?
 
