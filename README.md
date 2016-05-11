@@ -1,6 +1,7 @@
 # RTKLib and Python experiments
 
 There is pilot project what uses RTKLib postprocessing, Google Maps JS API and Python. Tested on Ubuntu 14.04.
+Used NV08C-CSM receiver and NVS BINR raw data format.
 
 ### What used?
 
